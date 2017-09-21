@@ -1,5 +1,6 @@
 '''
-Group members : Avery Tan, Canopus Tong
+Group members : Avery Tan(altan:1392212), Canopus Tong(canopus:1412275)
+
 '''
 
 
